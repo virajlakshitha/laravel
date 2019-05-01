@@ -14,7 +14,10 @@
     <div class="container">
         <div class="row">
             <div class="col-6">
-                I'm Viraj Lakshitha Gunathilaka
+                <img src="/img/11.jpg">
+            </div>
+            <div class="col-6">
+                    I'm Viraj Lakshitha Gunathilaka
             </div>
         </div>
     </div>
