@@ -3,7 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+    <meta https-equiv="X-UA-Compatible" content="ie=edge">
     <title>Viraj Gunathilaka</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
