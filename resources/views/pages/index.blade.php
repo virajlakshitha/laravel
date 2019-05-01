@@ -9,6 +9,7 @@
     <link href="{{ secure_asset('css/app.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/css.css') }}" rel="stylesheet">
     <link href="{{ secure_asset('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="{{ secure_asset('img/11.jpg') }}" rel="icon">
 </head>
 <body>
     <div class="container">
