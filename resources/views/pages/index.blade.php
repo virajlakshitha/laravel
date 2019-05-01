@@ -14,7 +14,7 @@
     <div class="container">
         <div class="row">
             <div class="col-6">
-                <img src="/img/11.jpg">
+                <img src="/img/11.jpg" height="15%" width="25%">
             </div>
             <div class="col-6">
                     I'm Viraj Lakshitha Gunathilaka
