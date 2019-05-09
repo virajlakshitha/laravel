@@ -6,10 +6,10 @@
     <meta https-equiv="X-UA-Compatible" content="ie=edge">
     <title>Viraj Gunathilaka</title>
     <meta name="csrf-token" content="{{ csrf_token() }}">
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/css.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
-    <link href="{{ asset('img/11.jpg') }}" rel="icon">
+    <link href="/css/app.css" rel="stylesheet">
+    <link href="/css/css.css" rel="stylesheet">
+    <link href="/css/bootstrap.min.css" rel="stylesheet">
+    <link href="/img/11.jpg" rel="icon">
 </head>
 <body>
     <div class="container">
@@ -25,7 +25,7 @@
 </body>
 </html>
 <!-- Scripts -->
-<script src="{{ secure_asset('js/app.js') }}"></script>
-<script src="{{ secure_asset('js/bootstrap.min.js') }}"></script>
-<script src="{{ secure_asset('js/jquery-3.3.1.slim.min.js') }}"></script>
-<script src="{{ secure_asset('js/popper.min.js') }}"></script>
+<script src="/js/app.js"></script>
+<script src="/js/bootstrap.min.js"></script>
+<script src="/js/jquery-3.3.1.slim.min.js"></script>
+<script src="/js/popper.min.js"></script>

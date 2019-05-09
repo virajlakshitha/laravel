@@ -8,9 +8,9 @@
     <!-- CSRF Token -->
     <meta name="csrf-token" content="{{ csrf_token() }}">
     <!-- Styles -->
-    <link href="{{ asset('css/app.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/css.css') }}" rel="stylesheet">
-    <link href="{{ asset('css/bootstrap.min.css') }}" rel="stylesheet">
+    <link href="/public/css/app.css" rel="stylesheet">
+    <link href="/public/css/css.css'" rel="stylesheet">
+    <link href="/public/css/bootstrap.min.css" rel="stylesheet">
 </head>
 <body>
     {{-- <nav class="navbar navbar-default navbar-static-top"> --}}
@@ -74,7 +74,7 @@
 </body>
 </html>
 <!-- Scripts -->
-<script src="{{ asset('js/app.js') }}"></script>
-<script src="{{ asset('js/bootstrap.min.js') }}"></script>
-<script src="{{ asset('js/jquery-3.3.1.slim.min.js') }}"></script>
-<script src="{{ asset('js/popper.min.js') }}"></script>
+<script src="/public/js/app.js"></script>
+<script src="/public/js/bootstrap.min.js"></script>
+<script src="/public/js/jquery-3.3.1.slim.min.js"></script>
+<script src="/public/js/popper.min.js"></script>
