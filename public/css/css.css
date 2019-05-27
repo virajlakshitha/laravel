@@ -49,5 +49,49 @@
 
 body{
   margin: 0;
-  font-size: 15px;
+}
+a{
+  text-decoration: none;
+}
+footer{
+  background: #2e3063;
+  color: white;
+  padding: 10px 0;
+}
+footer a{
+  color: white;
+}
+footer a:hover{
+  color: silver;
+}
+@media(min-width: 1280px){
+  #navigation{
+      background: #2e3063;
+      height: 65px;
+      padding: 0 15px 0 15px;
+  }
+  .navs{
+      margin-top: 15px;
+  }
+  #content2{
+      margin-top: 65px;
+  }
+  
+  #footer_list{
+      color: white;
+  }
+  footer li{
+      list-style: none;
+      border-bottom: 1px solid white;
+      line-height: 2em;
+  }
+}
+@media(min-width: 992px){
+
+}
+@media(min-width: 768px){
+
+}
+@media(min-width: 576px){
+
 }
